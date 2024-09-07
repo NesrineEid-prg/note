@@ -1,0 +1,37 @@
+windows+. ===== add emoji in flutter
+_________________________________________
+ctrl+s ======== screenshot 
+_________________________________________
+ctrl+shift+p --->use recommended setting 
+add this code ===========add const automatics
+"editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+_________________________________________
+  SystemChrome.setSystemUIOverlayStyle(
+      SystemUiOverlayStyle(statusBarColor: Colors.transparent));
+
+make transparent before appbar
+ _________________________________________
+**gitHub**
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NesrineEid-prg/StoreApp.git
+git push -u origin main
+
+**push again**
+git add .
+git commit -m "PRODUCT&CATEGORIE commit"
+git push
+
+ _________________________________________
+Relative Path
+(ctrl+shit+h)
+
+this extention use to help me to use import only one time
+_________________________________________
+
+
